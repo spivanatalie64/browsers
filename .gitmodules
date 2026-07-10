@@ -1,0 +1,43 @@
+[submodule "Acreetium"]
+	path = Acreetium
+	url = https://github.com/spivanatalie64/Acreetium.git
+
+[submodule "Acrint"]
+	path = Acrint
+	url = https://github.com/spivanatalie64/Acrint.git
+
+[submodule "Acrotium"]
+	path = Acrotium
+	url = https://github.com/spivanatalie64/Acrotium.git
+
+[submodule ".ghghhgghjf"]
+	path = .ghghhgghjf
+	url = git@example.invalid:.ghghhgghjf.git
+
+[submodule ".browser_filesystem/yacfs-kmod"]
+	path = .browser_filesystem/yacfs-kmod
+	url = https://github.com/spivanatalie64/yacfs-kmod.git
+
+[submodule ".browser_filesystem/yacfs-metrics"]
+	path = .browser_filesystem/yacfs-metrics
+	url = https://github.com/spivanatalie64/yacfs-metrics.git
+
+[submodule ".browser_filesystem/yacfs-replicate"]
+	path = .browser_filesystem/yacfs-replicate
+	url = https://github.com/spivanatalie64/yacfs-replicate.git
+
+[submodule ".browser_filesystem/yacfs-tools"]
+	path = .browser_filesystem/yacfs-tools
+	url = https://github.com/spivanatalie64/yacfs-tools.git
+
+[submodule "browser_src/chromium-src"]
+	path = browser_src/chromium-src
+	url = https://github.com/chromium/chromium.git
+
+[submodule "browser_src/firefox-src"]
+	path = browser_src/firefox-src
+	url = https://github.com/mozilla-firefox/firefox.git
+
+[submodule "license-list-data"]
+	path = license-list-data
+	url = https://github.com/spivanatalie64/license-list-data.git
