@@ -1,1 +1,3 @@
-moved 2009 items, blocked 0
+moved_count: 9998
+remaining_count: 163301
+remaining_total_size: 3563089271
