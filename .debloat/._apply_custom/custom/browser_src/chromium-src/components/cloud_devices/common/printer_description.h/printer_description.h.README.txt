@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/components/cloud_devices/common/printer_description.h

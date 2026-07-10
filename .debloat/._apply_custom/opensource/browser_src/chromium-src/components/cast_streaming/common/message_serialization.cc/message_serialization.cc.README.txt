@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/cast_streaming/common/message_serialization.cc

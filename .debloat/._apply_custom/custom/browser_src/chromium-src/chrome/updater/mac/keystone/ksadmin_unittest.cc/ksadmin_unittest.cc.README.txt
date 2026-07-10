@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/updater/mac/keystone/ksadmin_unittest.cc

@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/app_restore/app_restore_arc_info.h

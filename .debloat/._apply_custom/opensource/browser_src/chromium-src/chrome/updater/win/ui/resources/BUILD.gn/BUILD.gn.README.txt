@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/updater/win/ui/resources/BUILD.gn

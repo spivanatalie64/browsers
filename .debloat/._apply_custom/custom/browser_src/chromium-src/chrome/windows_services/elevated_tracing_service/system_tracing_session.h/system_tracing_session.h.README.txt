@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/windows_services/elevated_tracing_service/system_tracing_session.h

@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/cast_receiver/proto/input_capabilities.proto

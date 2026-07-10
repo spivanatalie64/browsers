@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/updater/util/win_util_unittest.cc

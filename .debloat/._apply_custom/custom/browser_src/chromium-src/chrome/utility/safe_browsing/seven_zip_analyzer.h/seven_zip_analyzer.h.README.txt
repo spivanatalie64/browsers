@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/utility/safe_browsing/seven_zip_analyzer.h

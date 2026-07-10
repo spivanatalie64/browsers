@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/components/account_id/mojom/account_id.mojom

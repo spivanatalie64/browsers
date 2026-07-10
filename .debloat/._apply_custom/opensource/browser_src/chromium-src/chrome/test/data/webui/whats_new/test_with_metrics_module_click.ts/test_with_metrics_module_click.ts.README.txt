@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/webui/whats_new/test_with_metrics_module_click.ts

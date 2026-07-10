@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/autofill_payments_strings.grdp

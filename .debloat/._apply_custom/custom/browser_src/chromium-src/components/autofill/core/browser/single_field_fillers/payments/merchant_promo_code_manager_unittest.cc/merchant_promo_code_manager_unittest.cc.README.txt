@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/components/autofill/core/browser/single_field_fillers/payments/merchant_promo_code_manager_unittest.cc

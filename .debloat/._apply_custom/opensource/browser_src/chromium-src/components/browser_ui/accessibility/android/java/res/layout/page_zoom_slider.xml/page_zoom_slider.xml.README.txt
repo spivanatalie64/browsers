@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/browser_ui/accessibility/android/java/res/layout/page_zoom_slider.xml

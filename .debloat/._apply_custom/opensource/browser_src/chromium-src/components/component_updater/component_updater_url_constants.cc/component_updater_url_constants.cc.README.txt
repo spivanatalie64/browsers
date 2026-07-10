@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/component_updater/component_updater_url_constants.cc

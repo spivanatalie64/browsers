@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/contextual_search/consent_kit/proto/privacy_primitive_config.proto

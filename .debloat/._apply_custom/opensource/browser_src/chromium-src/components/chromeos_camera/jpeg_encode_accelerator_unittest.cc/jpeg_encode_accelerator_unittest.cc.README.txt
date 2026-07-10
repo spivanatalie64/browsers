@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/chromeos_camera/jpeg_encode_accelerator_unittest.cc

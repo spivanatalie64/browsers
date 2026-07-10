@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/browsing_data/core/counters/history_counter.cc

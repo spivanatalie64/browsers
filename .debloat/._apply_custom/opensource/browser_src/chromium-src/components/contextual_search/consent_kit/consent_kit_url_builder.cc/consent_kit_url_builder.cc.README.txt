@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/contextual_search/consent_kit/consent_kit_url_builder.cc

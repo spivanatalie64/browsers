@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/components/content_capture/android/java/src/org/chromium/components/content_capture/PlatformContentCaptureController.java

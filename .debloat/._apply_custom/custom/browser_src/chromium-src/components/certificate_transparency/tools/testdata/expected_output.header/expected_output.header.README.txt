@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/components/certificate_transparency/tools/testdata/expected_output.header

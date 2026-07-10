@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/components/breadcrumbs/core/breadcrumb_manager_tab_helper.cc

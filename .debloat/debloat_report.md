@@ -21,3 +21,8 @@ Note: Processing stopped after 2 batches (safety limit). Remaining items: 143301
 - browser_src/chromium-src/chrome/test/data/safe_browsing/notification_content_detection_bert_model.tflite : copyleft detected
 - browser_src/chromium-src/chrome/test/data/sunspider/sunspider-1.0/sunspider-test-contents.js : copyleft detected
 - browser_src/chromium-src/chrome/test/data/sunspider/sunspider-test-contents.js : copyleft detected
+- browser_src/chromium-src/chrome/test/supervised_user/supervision_mixin.h : copyleft detected
+- browser_src/chromium-src/chrome/updater/test/data/test_installer/x64/Testapp2Setup.exe : copyleft detected
+- browser_src/chromium-src/chrome/utility/importer/nss_decryptor.cc : copyleft detected
+- browser_src/chromium-src/chrome/utility/importer/nss_decryptor_system_nss.cc : copyleft detected
+- browser_src/chromium-src/chrome/utility/importer/nss_decryptor_win.h : copyleft detected

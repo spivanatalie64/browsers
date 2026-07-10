@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/components_google_chrome_strings.grd

@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/webui/tab_search/split_new_tab_page_test.ts

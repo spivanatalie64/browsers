@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/payments/payment_request_platform_browsertest_base.h

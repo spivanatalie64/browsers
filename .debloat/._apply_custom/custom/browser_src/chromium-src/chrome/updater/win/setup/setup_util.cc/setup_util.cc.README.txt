@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/updater/win/setup/setup_util.cc

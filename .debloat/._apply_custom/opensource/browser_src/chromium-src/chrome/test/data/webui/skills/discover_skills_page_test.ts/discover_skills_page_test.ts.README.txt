@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/webui/skills/discover_skills_page_test.ts

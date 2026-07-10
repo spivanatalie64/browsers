@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/components/browser_ui/device_lock/android/java/src/org/chromium/components/browser_ui/device_lock/DeviceLockActivityLauncher.java

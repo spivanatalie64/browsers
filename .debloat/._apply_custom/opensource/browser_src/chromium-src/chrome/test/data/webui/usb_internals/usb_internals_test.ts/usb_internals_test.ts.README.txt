@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/webui/usb_internals/usb_internals_test.ts

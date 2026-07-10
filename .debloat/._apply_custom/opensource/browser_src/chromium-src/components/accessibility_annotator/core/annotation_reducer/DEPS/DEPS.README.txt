@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/accessibility_annotator/core/annotation_reducer/DEPS

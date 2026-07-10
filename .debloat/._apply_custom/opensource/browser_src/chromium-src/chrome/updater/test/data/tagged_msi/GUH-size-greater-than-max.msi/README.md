@@ -1,0 +1,1 @@
+Binary file alternative stub for browser_src/chromium-src/chrome/updater/test/data/tagged_msi/GUH-size-greater-than-max.msi

@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/assist_ranker/ranker_url_fetcher.cc

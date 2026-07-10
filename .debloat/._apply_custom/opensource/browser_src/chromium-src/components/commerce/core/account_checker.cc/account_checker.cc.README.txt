@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/commerce/core/account_checker.cc

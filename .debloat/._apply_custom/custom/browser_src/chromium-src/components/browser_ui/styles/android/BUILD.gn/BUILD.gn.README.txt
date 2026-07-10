@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/components/browser_ui/styles/android/BUILD.gn

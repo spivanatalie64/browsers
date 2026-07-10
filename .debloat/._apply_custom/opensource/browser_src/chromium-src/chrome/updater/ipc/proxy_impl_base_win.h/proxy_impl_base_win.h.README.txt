@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/updater/ipc/proxy_impl_base_win.h

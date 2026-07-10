@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/account_id/mojom/account_id_mojom_traits.h

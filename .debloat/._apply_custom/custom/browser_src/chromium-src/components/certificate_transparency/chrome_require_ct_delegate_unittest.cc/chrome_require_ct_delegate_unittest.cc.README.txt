@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/components/certificate_transparency/chrome_require_ct_delegate_unittest.cc

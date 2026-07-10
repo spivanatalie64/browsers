@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/components/accessibility_annotator/core/annotation_reducer/one_p_resolver_impl_unittest.cc

@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/bookmark_bar_strings.grdp

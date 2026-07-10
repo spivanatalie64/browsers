@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/updater/tools/print_guids_for_version.py

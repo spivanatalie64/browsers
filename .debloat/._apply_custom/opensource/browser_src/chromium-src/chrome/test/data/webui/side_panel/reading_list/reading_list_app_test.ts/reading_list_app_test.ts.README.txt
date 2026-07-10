@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/webui/side_panel/reading_list/reading_list_app_test.ts

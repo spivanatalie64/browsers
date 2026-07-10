@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/enterprise/e2e/connector/common/device_trust_ui_test.py

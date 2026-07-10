@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/account_manager_core/account_manager_util.cc

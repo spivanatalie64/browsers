@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/captive_portal/content/captive_portal_tab_helper.h

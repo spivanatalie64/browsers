@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/updater/update_block_check_win.cc

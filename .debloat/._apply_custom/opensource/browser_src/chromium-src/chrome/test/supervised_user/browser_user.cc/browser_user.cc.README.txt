@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/supervised_user/browser_user.cc

@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/updater/enterprise/win/google/generate_group_policy_template_admx.py

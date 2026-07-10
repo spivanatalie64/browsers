@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/autofill/core/browser/ui/autofill_image_fetcher.cc

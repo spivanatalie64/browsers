@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/browser_ui/accessibility/android/java/res/layout/text_size_contrast_slider.xml

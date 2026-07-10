@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/browsing_data/core/history_notice_utils.cc

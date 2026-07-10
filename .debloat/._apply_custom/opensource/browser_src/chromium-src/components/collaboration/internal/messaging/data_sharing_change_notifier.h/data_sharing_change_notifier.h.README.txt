@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/collaboration/internal/messaging/data_sharing_change_notifier.h

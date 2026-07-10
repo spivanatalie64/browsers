@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/updater/app/app_utils.cc

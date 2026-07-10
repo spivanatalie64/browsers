@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/updater/win/signing/enterprise_standalone_installer.wxs.xml

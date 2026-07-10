@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/utility/importer/ie_importer_win.cc

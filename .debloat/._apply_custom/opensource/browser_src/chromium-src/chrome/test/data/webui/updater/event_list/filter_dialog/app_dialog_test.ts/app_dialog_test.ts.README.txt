@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/webui/updater/event_list/filter_dialog/app_dialog_test.ts

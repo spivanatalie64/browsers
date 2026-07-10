@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/updater/test/test_installer/create_test_msi_installer.py

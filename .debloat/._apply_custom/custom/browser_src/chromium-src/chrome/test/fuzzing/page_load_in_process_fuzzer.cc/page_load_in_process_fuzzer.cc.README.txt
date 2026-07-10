@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/fuzzing/page_load_in_process_fuzzer.cc

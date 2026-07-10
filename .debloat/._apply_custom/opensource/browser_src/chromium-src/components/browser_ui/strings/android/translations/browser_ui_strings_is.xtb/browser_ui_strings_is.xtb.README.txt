@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/components/browser_ui/strings/android/translations/browser_ui_strings_is.xtb

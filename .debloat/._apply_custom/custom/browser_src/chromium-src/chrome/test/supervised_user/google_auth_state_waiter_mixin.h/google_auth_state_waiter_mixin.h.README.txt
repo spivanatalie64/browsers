@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/supervised_user/google_auth_state_waiter_mixin.h

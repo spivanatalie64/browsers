@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/components/bookmarks/common/android/java/src/org/chromium/components/bookmarks/BookmarkItem.java
