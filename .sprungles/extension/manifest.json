@@ -1,0 +1,24 @@
+{
+  "name": "Sprungles",
+  "version": "0.1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["content-script.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["agents/index.json", "agents/*.md", "agents/variants/*.md", "agent-runtime.js", "worker/agent-worker.js"],
+      "matches": ["http://*/*", "https://*/*"]
+    }
+  ]
+}
