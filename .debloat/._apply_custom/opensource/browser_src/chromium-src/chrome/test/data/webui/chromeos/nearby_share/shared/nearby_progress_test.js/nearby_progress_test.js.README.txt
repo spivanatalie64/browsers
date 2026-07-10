@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/webui/chromeos/nearby_share/shared/nearby_progress_test.js

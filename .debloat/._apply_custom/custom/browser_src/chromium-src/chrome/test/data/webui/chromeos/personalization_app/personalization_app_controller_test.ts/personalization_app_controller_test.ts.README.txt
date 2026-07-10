@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/webui/chromeos/personalization_app/personalization_app_controller_test.ts

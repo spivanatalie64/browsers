@@ -1,0 +1,1 @@
+Binary file custom alternative stub for browser_src/chromium-src/chrome/test/data/safe_browsing/mach_o/modified-main-exec32.app/Contents/MacOS/test-bundle

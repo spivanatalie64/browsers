@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chromeos/ash/components/report/device_metrics/use_case/use_case.cc

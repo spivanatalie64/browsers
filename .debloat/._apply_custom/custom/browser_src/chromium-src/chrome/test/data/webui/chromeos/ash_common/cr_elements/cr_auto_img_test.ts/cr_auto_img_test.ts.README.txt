@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/webui/chromeos/ash_common/cr_elements/cr_auto_img_test.ts

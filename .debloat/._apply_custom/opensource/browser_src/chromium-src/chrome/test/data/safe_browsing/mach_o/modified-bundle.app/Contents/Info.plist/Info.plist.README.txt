@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/safe_browsing/mach_o/modified-bundle.app/Contents/Info.plist

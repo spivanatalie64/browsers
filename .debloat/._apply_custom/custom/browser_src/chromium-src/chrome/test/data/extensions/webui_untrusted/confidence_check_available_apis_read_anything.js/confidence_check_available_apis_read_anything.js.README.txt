@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/extensions/webui_untrusted/confidence_check_available_apis_read_anything.js

@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chromeos/ash/components/scheduler_config/scheduler_configuration_manager.h

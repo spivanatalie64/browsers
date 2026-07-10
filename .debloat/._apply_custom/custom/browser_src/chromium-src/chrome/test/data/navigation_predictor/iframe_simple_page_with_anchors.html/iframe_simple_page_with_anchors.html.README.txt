@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/navigation_predictor/iframe_simple_page_with_anchors.html

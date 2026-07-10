@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chromeos/ash/components/heatmap/heatmap_palm_detector_impl.cc

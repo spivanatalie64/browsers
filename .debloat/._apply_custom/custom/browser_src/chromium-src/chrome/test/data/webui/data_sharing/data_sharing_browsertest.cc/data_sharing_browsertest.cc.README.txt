@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/webui/data_sharing/data_sharing_browsertest.cc

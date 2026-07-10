@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chromeos/ash/components/tether/gms_core_notifications_state_tracker.h

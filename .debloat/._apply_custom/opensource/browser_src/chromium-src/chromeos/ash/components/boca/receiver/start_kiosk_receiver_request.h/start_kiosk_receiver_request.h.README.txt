@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chromeos/ash/components/boca/receiver/start_kiosk_receiver_request.h

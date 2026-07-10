@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/webui/chromeos/print_preview/destination_settings_test.ts

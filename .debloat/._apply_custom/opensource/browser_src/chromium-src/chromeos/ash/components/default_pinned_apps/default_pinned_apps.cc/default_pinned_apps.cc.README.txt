@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chromeos/ash/components/default_pinned_apps/default_pinned_apps.cc

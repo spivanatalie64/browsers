@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/webui/chromeos/personalization_app/google_photos_photos_by_album_id_element_test.ts

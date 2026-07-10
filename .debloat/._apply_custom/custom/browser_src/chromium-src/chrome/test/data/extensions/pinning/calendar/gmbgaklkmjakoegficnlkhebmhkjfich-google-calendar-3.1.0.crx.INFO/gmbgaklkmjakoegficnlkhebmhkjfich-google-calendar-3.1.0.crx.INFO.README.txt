@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/extensions/pinning/calendar/gmbgaklkmjakoegficnlkhebmhkjfich-google-calendar-3.1.0.crx.INFO

@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/extensions/api_test/isolated_world_csp/mv2/remote_script.js

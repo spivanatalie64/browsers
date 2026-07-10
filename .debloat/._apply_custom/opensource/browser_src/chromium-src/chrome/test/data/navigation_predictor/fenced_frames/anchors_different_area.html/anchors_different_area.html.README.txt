@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/navigation_predictor/fenced_frames/anchors_different_area.html

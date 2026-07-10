@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chromecast/common/cors_exempt_headers.cc

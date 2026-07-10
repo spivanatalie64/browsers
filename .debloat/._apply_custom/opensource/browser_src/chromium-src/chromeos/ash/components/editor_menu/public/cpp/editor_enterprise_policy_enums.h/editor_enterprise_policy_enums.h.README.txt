@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chromeos/ash/components/editor_menu/public/cpp/editor_enterprise_policy_enums.h

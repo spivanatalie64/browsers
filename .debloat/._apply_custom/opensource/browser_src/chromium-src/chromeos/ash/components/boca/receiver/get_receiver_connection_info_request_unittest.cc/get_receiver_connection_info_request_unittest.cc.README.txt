@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chromeos/ash/components/boca/receiver/get_receiver_connection_info_request_unittest.cc

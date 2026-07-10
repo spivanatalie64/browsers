@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/webui/chromeos/cloud_upload/cloud_upload_dialog_test.ts

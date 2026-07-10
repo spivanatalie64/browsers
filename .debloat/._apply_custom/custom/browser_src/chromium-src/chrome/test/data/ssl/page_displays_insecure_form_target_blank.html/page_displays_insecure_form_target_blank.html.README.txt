@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/ssl/page_displays_insecure_form_target_blank.html

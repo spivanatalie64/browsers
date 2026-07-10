@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/webui/chromeos/settings/internet_page/internet_detail_subpage_test.ts

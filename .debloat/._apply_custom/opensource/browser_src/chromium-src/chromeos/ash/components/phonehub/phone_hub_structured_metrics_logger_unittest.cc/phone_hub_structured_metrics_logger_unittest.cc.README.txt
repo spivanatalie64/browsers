@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chromeos/ash/components/phonehub/phone_hub_structured_metrics_logger_unittest.cc

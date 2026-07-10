@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/webui/chromeos/settings/controls/settings_toggle_button_test.ts

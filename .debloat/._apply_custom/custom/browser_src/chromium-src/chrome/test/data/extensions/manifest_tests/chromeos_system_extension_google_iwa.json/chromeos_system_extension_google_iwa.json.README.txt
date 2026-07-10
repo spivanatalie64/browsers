@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/extensions/manifest_tests/chromeos_system_extension_google_iwa.json

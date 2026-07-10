@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/ssl/redirect_with_mixed_content.html

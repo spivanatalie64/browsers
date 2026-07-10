@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/extensions/signin_screen_manual_test_extension/update_manifest.xml

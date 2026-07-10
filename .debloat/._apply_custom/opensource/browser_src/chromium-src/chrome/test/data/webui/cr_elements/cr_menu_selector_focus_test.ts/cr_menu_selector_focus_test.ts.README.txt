@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/webui/cr_elements/cr_menu_selector_focus_test.ts

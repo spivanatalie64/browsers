@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/webui/settings/test_clear_browsing_data_browser_proxy.ts

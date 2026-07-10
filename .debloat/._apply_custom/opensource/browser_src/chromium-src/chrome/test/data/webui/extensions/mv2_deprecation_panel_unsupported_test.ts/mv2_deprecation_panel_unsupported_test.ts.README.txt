@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/webui/extensions/mv2_deprecation_panel_unsupported_test.ts

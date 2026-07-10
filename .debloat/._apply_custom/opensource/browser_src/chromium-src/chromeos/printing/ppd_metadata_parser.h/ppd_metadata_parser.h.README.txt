@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chromeos/printing/ppd_metadata_parser.h

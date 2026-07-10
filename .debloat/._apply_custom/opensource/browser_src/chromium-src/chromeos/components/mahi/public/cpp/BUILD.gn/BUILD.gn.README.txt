@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chromeos/components/mahi/public/cpp/BUILD.gn

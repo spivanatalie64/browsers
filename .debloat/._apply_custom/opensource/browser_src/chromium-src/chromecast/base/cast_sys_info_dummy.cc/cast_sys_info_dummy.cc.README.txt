@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chromecast/base/cast_sys_info_dummy.cc

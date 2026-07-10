@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/webui/cr_components/composebox/recent_tab_chip_test.ts

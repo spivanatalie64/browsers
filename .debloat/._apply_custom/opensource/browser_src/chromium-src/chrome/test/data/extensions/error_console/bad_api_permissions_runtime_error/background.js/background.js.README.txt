@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/extensions/error_console/bad_api_permissions_runtime_error/background.js

@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/webui/chromeos/parent_access/test_parent_access_ui_handler.ts

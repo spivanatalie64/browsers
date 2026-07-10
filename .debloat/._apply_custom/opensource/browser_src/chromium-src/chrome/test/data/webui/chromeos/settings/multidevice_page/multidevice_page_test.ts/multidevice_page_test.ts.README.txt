@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/webui/chromeos/settings/multidevice_page/multidevice_page_test.ts

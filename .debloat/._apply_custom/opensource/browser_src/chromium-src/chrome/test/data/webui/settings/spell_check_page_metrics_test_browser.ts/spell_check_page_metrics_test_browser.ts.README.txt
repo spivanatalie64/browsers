@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/webui/settings/spell_check_page_metrics_test_browser.ts

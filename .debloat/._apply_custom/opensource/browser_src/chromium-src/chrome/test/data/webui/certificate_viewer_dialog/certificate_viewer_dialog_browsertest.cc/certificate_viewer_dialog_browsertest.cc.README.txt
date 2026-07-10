@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/webui/certificate_viewer_dialog/certificate_viewer_dialog_browsertest.cc

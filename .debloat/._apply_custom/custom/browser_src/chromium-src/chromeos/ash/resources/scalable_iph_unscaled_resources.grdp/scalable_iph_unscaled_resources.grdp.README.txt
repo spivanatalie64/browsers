@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chromeos/ash/resources/scalable_iph_unscaled_resources.grdp

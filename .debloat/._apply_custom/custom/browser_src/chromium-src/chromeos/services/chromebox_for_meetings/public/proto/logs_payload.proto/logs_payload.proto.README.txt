@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chromeos/services/chromebox_for_meetings/public/proto/logs_payload.proto

@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chromeos/services/network_health/public/mojom/network_diagnostics.mojom

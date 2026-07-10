@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/webui/glic/browser_tests/new_glic_api_browsertest.ts

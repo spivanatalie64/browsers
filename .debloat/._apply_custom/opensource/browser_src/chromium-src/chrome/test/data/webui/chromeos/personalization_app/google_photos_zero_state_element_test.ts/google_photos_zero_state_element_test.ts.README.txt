@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/webui/chromeos/personalization_app/google_photos_zero_state_element_test.ts

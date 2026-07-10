@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/extensions/api_test/history/regular/search_after_add/search_after_add.js

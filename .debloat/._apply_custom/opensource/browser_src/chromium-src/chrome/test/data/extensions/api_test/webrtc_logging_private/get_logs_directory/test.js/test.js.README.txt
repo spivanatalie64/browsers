@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/extensions/api_test/webrtc_logging_private/get_logs_directory/test.js

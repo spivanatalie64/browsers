@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/webui/new_tab_page/doodle_share_dialog_test.ts

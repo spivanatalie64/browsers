@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/extensions/api_test/management/launch_on_install/background.js

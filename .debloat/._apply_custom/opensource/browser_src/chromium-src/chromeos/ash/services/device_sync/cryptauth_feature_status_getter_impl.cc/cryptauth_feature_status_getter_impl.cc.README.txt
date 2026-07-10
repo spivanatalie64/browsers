@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chromeos/ash/services/device_sync/cryptauth_feature_status_getter_impl.cc

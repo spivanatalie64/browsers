@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/webui/chromeos/settings/os_apps_page/app_management_page/supported_links_item_test.ts

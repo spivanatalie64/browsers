@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chromeos/ash/services/ime/public/mojom/user_data_japanese_dictionary.mojom

@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chromeos/ash/components/trial_group/trial_group_checker.h

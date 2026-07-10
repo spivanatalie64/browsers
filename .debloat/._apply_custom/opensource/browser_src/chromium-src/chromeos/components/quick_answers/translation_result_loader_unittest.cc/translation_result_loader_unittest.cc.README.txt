@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chromeos/components/quick_answers/translation_result_loader_unittest.cc

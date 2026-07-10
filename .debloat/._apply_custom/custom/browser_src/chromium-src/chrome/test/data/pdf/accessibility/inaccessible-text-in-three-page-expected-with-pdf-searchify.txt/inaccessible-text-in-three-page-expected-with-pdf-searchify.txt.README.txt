@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/pdf/accessibility/inaccessible-text-in-three-page-expected-with-pdf-searchify.txt

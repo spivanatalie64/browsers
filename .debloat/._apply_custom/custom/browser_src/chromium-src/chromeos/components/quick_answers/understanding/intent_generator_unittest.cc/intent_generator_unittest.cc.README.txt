@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chromeos/components/quick_answers/understanding/intent_generator_unittest.cc

@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chromeos/components/payments/mojom/payment_app_types.mojom

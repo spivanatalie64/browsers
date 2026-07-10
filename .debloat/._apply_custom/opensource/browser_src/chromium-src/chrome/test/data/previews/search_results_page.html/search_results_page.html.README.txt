@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/previews/search_results_page.html

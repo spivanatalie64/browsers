@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/dromaeo/lib/jquery.2.0.3.js

@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chromeos/crosapi/mojom/account_manager.mojom

@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chromeos/ash/experiences/system_web_apps/types/system_web_app_delegate.h

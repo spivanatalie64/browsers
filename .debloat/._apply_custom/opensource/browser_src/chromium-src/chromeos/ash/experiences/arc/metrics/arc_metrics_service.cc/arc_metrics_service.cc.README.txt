@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chromeos/ash/experiences/arc/metrics/arc_metrics_service.cc

@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chromeos/ash/services/assistant/test_support/scoped_assistant_browser_delegate.h

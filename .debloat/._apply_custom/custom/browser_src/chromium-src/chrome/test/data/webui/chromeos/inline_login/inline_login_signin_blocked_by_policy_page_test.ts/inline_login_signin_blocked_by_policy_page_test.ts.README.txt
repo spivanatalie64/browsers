@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/webui/chromeos/inline_login/inline_login_signin_blocked_by_policy_page_test.ts

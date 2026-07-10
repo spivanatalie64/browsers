@@ -1,0 +1,1 @@
+# Custom alternative for browser_src/chromium-src/chrome/test/data/webui/drive_picker/drive_picker_sanitizer_test.ts

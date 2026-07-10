@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chrome/test/data/extensions/auth_screen_external_loader/extension/test.js

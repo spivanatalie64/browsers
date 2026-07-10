@@ -1,0 +1,1 @@
+# Alternative for browser_src/chromium-src/chromecast/app/resources/shell_devtools_discovery_page.html
