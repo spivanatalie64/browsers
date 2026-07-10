@@ -1,0 +1,33 @@
+# Auto-generated proprietary pattern list
+# Base runtime patterns: vendor, third_party, prebuilt, firmware, binary extensions, and license header keywords
+
+# Path prefixes / folders
+vendor/
+third_party/
+prebuilt/
+firmware/
+
+# Filename globs (recursive)
+**/*.exe
+**/*.dll
+**/*.so
+**/*.bin
+**/*.dat
+**/*.ko
+**/*.drv
+**/*.dylib
+**/*.pem
+**/*.key
+
+# License/header keywords (case-insensitive search)
+Proprietary
+All rights reserved
+Closed source
+Microsoft
+Broadcom
+Qualcomm
+Intel
+Nvidia
+Google
+
+# End of patterns
