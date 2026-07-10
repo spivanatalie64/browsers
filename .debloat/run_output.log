@@ -1,0 +1,18 @@
+not found: # generated runtime-only patterns
+not found: vendor/
+not found: third_party/
+not found: prebuilt/
+not found: firmware/
+not found: *.exe
+not found: *.dll
+not found: *.so
+not found: *.bin
+not found: *.dat
+not found: *.ko
+not found: *.drv
+not found: *.dylib
+not found: # license indicators
+not found: PROPRIETARY
+not found: All rights reserved
+not found: Closed source
+Done

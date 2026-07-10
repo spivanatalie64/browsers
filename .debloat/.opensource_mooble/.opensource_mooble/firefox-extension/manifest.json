@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "Mooble Onboarding",
+  "version": "0.1.0",
+  "description": "Provides an alternative onboarding flow for Mooble and integrates with a local Mooble server.",
+  "author": "Natalie",
+  "icons": {
+    "48": "icon-48.png"
+  },
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_title": "Mooble Onboard"
+  },
+  "applications": {
+    "gecko": {
+      "id": "mooble-onboard@example.com"
+    }
+  }
+}

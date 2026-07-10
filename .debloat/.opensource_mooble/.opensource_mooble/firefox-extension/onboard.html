@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Mooble Onboarding</title>
+  <style>
+    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; padding: 24px; color: #111; }
+    .card { max-width: 720px; margin: 24px auto; border: 1px solid #ddd; border-radius: 8px; padding: 20px; }
+    h1 { margin-top: 0; }
+    .big { font-size: 1.25rem; }
+    .primary { background: #007acc; color: white; padding: 10px 14px; border: none; border-radius: 6px; cursor: pointer; }
+    .secondary { background: #eee; padding: 8px 12px; border: none; border-radius: 6px; cursor: pointer; }
+    .muted { color: #666; font-size: 0.9rem; }
+    pre { background: #f7f7f7; padding: 8px; border-radius: 4px; overflow:auto }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Welcome to Mooble</h1>
+    <p class="muted">This page helps you connect to a locally-running Mooble server (127.0.0.1:5000). Nothing leaves your machine.</p>
+
+    <div id="state">
+      <p>Checking for a local Mooble server...</p>
+    </div>
+
+    <div style="margin-top:18px; display:flex; gap:10px;">
+      <button id="action" class="primary" style="display:none">Open Mooble</button>
+      <button id="retry" class="secondary" style="display:none">Retry</button>
+      <button id="instructions" class="secondary">Show installation instructions</button>
+    </div>
+
+    <div id="instructionsBox" style="margin-top:16px; display:none">
+      <h3>Installation & startup</h3>
+      <p class="muted">Repository README (open in your file manager):</p>
+      <pre>.opensource_mooble/README.md</pre>
+      <p>Quick steps (example):</p>
+      <ol>
+        <li>Make sure you have Searx and other deps installed per README.</li>
+        <li>From the repo root: <code>./start-searx.sh</code> and then start the Mooble server (see README).</li>
+        <li>Return here and click Retry or Open Mooble.</li>
+      </ol>
+    </div>
+
+    <p class="muted" style="margin-top:18px">If you want Mooble as your new tab/homepage, copy the autostart files or configure the browser; see README.</p>
+
+  </div>
+
+  <script>
+    const PING = 'http://127.0.0.1:5000/';
+    const MOOBLE_URL = 'http://127.0.0.1:5000/?onboard=1';
+
+    const state = document.getElementById('state');
+    const actionBtn = document.getElementById('action');
+    const retryBtn = document.getElementById('retry');
+    const instrBtn = document.getElementById('instructions');
+    const instrBox = document.getElementById('instructionsBox');
+
+    async function check() {
+      state.textContent = 'Checking for a local Mooble server...';
+      actionBtn.style.display = 'none';
+      retryBtn.style.display = 'none';
+      instrBox.style.display = 'none';
+
+      try {
+        const controller = new AbortController();
+        const id = setTimeout(() => controller.abort(), 2500);
+        const res = await fetch(PING, { method: 'HEAD', signal: controller.signal });
+        clearTimeout(id);
+        if (res && (res.status >= 200 && res.status < 400)) {
+          state.innerHTML = '<p class="big">Mooble server detected on this machine.</p>';
+          actionBtn.style.display = '';
+          retryBtn.style.display = '';
+          return;
+        }
+      } catch (e) {
+        // unreachable
+      }
+
+      state.innerHTML = '<p class="big" style="color:#a00">No local Mooble server detected.</p>';
+      retryBtn.style.display = '';
+      instrBox.style.display = '';
+    }
+
+    actionBtn.addEventListener('click', () => {
+      window.open(MOOBLE_URL, '_blank');
+    });
+
+    retryBtn.addEventListener('click', () => {
+      check();
+    });
+
+    instrBtn.addEventListener('click', () => {
+      instrBox.style.display = instrBox.style.display === 'none' ? '' : 'none';
+    });
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'r' || e.key === 'R') check();
+    });
+
+    check();
+  </script>
+</body>
+</html>

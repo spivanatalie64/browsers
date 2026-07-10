@@ -1,0 +1,17 @@
+# generated runtime-only patterns
+vendor/
+third_party/
+prebuilt/
+firmware/
+*.exe
+*.dll
+*.so
+*.bin
+*.dat
+*.ko
+*.drv
+*.dylib
+# license indicators
+PROPRIETARY
+All rights reserved
+Closed source
